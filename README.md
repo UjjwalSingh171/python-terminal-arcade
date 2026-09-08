@@ -15,7 +15,7 @@ A small terminal arcade written in Python. It currently includes:
 Clone the repository and open its folder:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-terminal-arcade.git
+git clone https://github.com/UjjwalSingh171/python-terminal-arcade.git
 cd python-terminal-arcade
 ```
 
